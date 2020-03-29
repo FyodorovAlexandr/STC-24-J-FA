@@ -2,8 +2,7 @@ package com.fyodorov.lesson3.task1;
 
 import java.util.Scanner;
 
-public class task1 {
-
+public class Task1 {
     public static void main(String[] args) {
         double literCost = 43;
         int numberOfLiters = 50;

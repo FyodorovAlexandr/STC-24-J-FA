@@ -3,7 +3,7 @@ package com.fyodorov.lesson3.task4;
 import java.util.Random;
 import java.util.Scanner;
 
-public class task4 {
+public class Task4 {
     public static int a, d, c;
     static Scanner scanner;
 
