@@ -7,7 +7,6 @@ public class Task2 {
         Scanner in = new Scanner(System.in);
         int a = in.nextInt();
 
-
         if (a < 0 && (a % 2 == 0)) {
             System.out.println("Отрицательное четное число");
 
