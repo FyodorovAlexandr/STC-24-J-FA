@@ -1,10 +1,10 @@
 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ğÂãıÿÿÿÿ
 S	java:S106"9Replace this use of System.out or System.err by a logger.(ß’ñ¨ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²ñù±øÿÿÿÿ
 X
 java:S1854"BRemove this useless assignment to local variable "numberOfLiters".(è…ú™
-S	java:S106"9Replace this use of System.out or System.err by a logger.(²ñù±øÿÿÿÿ
-S	java:S106
-"9Replace this use of System.out or System.err by a logger.(Û²Ööÿÿÿÿÿ
 X
 java:S1854"=Remove this useless assignment to local variable "literCost".(ïÖÇÙøÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ğÂãıÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Û²Ööÿÿÿÿÿ

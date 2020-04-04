@@ -5,11 +5,11 @@ import java.util.Scanner;
 
 public class Task4 {
     public static int a, d, c;
-    static Scanner scanner;
+        static Scanner scanner;
 
-    public static void main(String[] args) {
-        scanner = new Scanner(System.in);
-        Starter();
+        public static void main(String[] args) {
+            scanner = new Scanner(System.in);
+            Starter();
     }
     static void Starter(){
         Start();

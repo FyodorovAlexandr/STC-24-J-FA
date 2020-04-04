@@ -1,34 +1,34 @@
 
-S	java:S1067"9Replace this use of System.out or System.err by a logger.(œÖ§¯şÿÿÿÿ
-c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ª³‡
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æˆ‰øÿÿÿÿ
-c
-java:S1104"MMake a a static final constant or non-public and provide accessors if needed.(À˜ª×
-S	java:S106"9Replace this use of System.out or System.err by a logger.(˜ùÌ÷şÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ€Öû
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¹§äªúÿÿÿÿ
-5
-java:S1659"Declare "d" on a separate line.(À˜ª×
-=
-java:S1444"'Make this "public static a" field final(À˜ª×
+h	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÒ‹ˆüÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(˜¶õš
 3
 java:S2119"Save and re-use this "Random".(¼İÅf
-=
-java:S1444"'Make this "public static c" field final(À˜ª×
-S	java:S1061"9Replace this use of System.out or System.err by a logger.(¢Ï§ˆúÿÿÿÿ
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É€¹ñøÿÿÿÿ
-N	java:S106."9Replace this use of System.out or System.err by a logger.(˜¶õš
-=
-java:S1444"'Make this "public static d" field final(À˜ª×
-h	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÒ‹ˆüÿÿÿÿ
-S	java:S106)"9Replace this use of System.out or System.err by a logger.(®üÔ¶ùÿÿÿÿ
-h	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äå«Ãúÿÿÿÿ
-M	java:S1064"9Replace this use of System.out or System.err by a logger.(çŞĞ~
-c
-java:S1104"MMake d a static final constant or non-public and provide accessors if needed.(À˜ª×
-c
-java:S1104"MMake c a static final constant or non-public and provide accessors if needed.(À˜ª×
-5
-java:S1659"Declare "c" on a separate line.(À˜ª×
-N	java:S106 "9Replace this use of System.out or System.err by a logger.(şÕø
+<
+java:S1659"Declare "d" on a separate line.(À˜ª×8ÂÎÑø“.
+<
+java:S1659"Declare "c" on a separate line.(À˜ª×8ÂÎÑø“.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ€Öû
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æˆ‰øÿÿÿÿ
 S	java:S106:"9Replace this use of System.out or System.err by a logger.(È—Î¤úÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É€¹ñøÿÿÿÿ
+D
+java:S1444"'Make this "public static c" field final(À˜ª×8ÂÎÑø“.
+j
+java:S1104"MMake d a static final constant or non-public and provide accessors if needed.(À˜ª×8ÂÎÑø“.
+D
+java:S1444"'Make this "public static d" field final(À˜ª×8ÂÎÑø“.
+j
+java:S1104"MMake c a static final constant or non-public and provide accessors if needed.(À˜ª×8ÂÎÑø“.
+M	java:S1064"9Replace this use of System.out or System.err by a logger.(çŞĞ~
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(œÖ§¯şÿÿÿÿ
+j
+java:S1104"MMake a a static final constant or non-public and provide accessors if needed.(À˜ª×8ÂÎÑø“.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹§äªúÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ª³‡
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(şÕø
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜ùÌ÷şÿÿÿÿ
+h	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äå«Ãúÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(¢Ï§ˆúÿÿÿÿ
+D
+java:S1444"'Make this "public static a" field final(À˜ª×8ÂÎÑø“.
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(®üÔ¶ùÿÿÿÿ
