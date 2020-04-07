@@ -1,4 +1,4 @@
-package com.fyodorov.lesson8.task1;
+package com.fyodorov.lesson8;
 
 class Task3 {
 

@@ -1,4 +1,4 @@
-package com.fyodorov.lesson8.task1;
+package com.fyodorov.lesson8;
 
 public class Task4Contract {
     public static void main(String[] args) {

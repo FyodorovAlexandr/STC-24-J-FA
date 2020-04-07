@@ -1,4 +1,4 @@
-package com.fyodorov.lesson6.task1;
+package com.fyodorov.lesson6;
 
 class Animal {
     public void drinks() {

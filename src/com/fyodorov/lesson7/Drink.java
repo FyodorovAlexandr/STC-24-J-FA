@@ -1,4 +1,4 @@
-package com.fyodorov.lesson7.task1;
+package com.fyodorov.lesson7;
 
 public enum Drink {
 
