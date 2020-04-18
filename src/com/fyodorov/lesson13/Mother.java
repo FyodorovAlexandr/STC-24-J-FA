@@ -12,7 +12,14 @@ public class Mother {
         Mother mother = new Mother();
         mother.name = "Мария";
         mother.age = 30;
-        Child.Eat();
+        try {
+            Child.Eat();
+            System.out.println("Съел … за обе щеки");
+        } catch (DonLikeFoodException e) {
+            System.out.println("Ребенок выплюнул еду");
+        } finally {
+            System.out.println("Спасиба мама");
+        }
     }
 
     public static void MannerlyChild() {
@@ -35,32 +42,4 @@ public class Mother {
     }
 }
 
-    class Child {
-        public String name;
-        public int age;
-
-        public static void Eat() {
-            System.out.println("Введите наименование еды из списка");
-            Scanner scanner = new Scanner(System.in);
-            while (scanner.hasNext()) {
-                String s = scanner.next();
-                if ("ЯБЛОКО".equals(s)) {
-                    System.out.println("Съел … за обе щеки \n" + "Спасибо, мама");
-                }
-                else if (("МОРКОВЬ".equals(s) || "КАША".equals(s))){
-                    try {
-                       Integer.parseInt(s);
-                    } catch (Exception e) {
-                        System.out.println("Ребенок выплюнул еду");
-                    } finally {
-                        System.out.println("Спасибо, мама");
-                    }
-                }
-                else {
-                    System.out.println("Попробуй еще раз");
-                    Eat();
-                }
-            }
-        }
-    }
 

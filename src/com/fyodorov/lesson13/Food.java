@@ -7,4 +7,13 @@ public enum Food {
 
     public int number;
     Food(int inputNumber) {number = inputNumber;}
+
+    public Food getFoodByNumber(int number){
+        if(number==1)
+            return МОРКОВЬ;
+        else if (number==2)
+            return ЯБЛОКО;
+        else
+            return КАША;
+    }
 }
