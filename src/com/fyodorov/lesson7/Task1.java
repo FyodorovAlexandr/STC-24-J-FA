@@ -89,7 +89,6 @@ public class Task1 {
             logr.log(Level.SEVERE, "Пользователь выбрал несуществующий номер: "+ i);
             System.out.println("Номер не существует");
             Menu();
-            
         }
     }
 }
