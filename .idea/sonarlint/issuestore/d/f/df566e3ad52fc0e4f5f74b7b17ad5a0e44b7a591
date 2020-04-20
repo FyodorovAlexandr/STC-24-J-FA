@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æŠŞ8šÉ³¯•.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Ÿ÷Æùüÿÿÿÿ8šÉ³¯•.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Şƒğ¦8šÉ³¯•.
+X
+java:S1610"6Convert the abstract class "Person" into an interface.(Ú´òÿÿÿÿÿ8Ü‰Â¯•.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ú´òÿÿÿÿÿ8Ü‰Â¯•.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚ûı…üÿÿÿÿ8šÉ³¯•.

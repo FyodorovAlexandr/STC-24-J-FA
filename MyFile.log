@@ -1,0 +1,12 @@
+апр. 20, 2020 10:07:11 PM com.fyodorov.lesson7.Task1 Start
+SEVERE: Пользователь вместо + ввел: 9
+апр. 20, 2020 10:07:14 PM com.fyodorov.lesson7.Task1 Start
+INFO: Пользователь ввел: +
+апр. 20, 2020 10:07:17 PM com.fyodorov.lesson7.Task1 Money
+WARNING: Пользователь ввел: 5 руб. Недостаточно для покупки
+апр. 20, 2020 10:07:21 PM com.fyodorov.lesson7.Task1 Money
+INFO: Пользователь ввел дополнительно. Баланс: 75 руб
+апр. 20, 2020 10:07:23 PM com.fyodorov.lesson7.Task1 Menu
+SEVERE: Пользователь выбрал несуществующий номер: 6
+апр. 20, 2020 10:07:26 PM com.fyodorov.lesson7.Task1 Menu
+INFO: Пользователь выбрал: PEPSI

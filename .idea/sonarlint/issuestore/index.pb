@@ -53,3 +53,10 @@ c
 3src/com/fyodorov/lesson13/DonLikeFoodException.java,8\2\82bdbc36bd449c141b8f4edb2ded71e24779d589
 T
 $src/com/fyodorov/lesson14/Task1.java,d\f\dfd5ce3747513557cff900bf20e60703c404014d
+T
+$src/com/fyodorov/lesson13/Child.java,5\3\53a4fa0d4aad55d7f8aab2d0bde9f229577fe669
+B
+src/Test/Test.java,b\2\b2c17535916fe5b53ea8da317848151ce9afe4b7
+:
+
+MyFile.log,1\c\1cdc83130a1a97fbc192cd1322487f79e06fb12b

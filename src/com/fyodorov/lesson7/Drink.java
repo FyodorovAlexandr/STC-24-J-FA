@@ -12,4 +12,8 @@ public enum Drink {
     Drink(int inputPrice) {
         price = inputPrice;
     }
+
+    public int getPrice() {
+        return price;
+    }
 }
