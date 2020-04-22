@@ -1,11 +1,8 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(±×‰Í8»“‹¤™.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(¶ã˜@8»“‹¤™.
+e
+java:S1128"CRemove this unused import 'java.util.function.DoubleToIntFunction'.(å¯ßÍşÿÿÿÿ8ÄÎùÈ™.
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¢™ùÿÿÿÿ
-Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ºœØÿÿÿÿÿ8»“‹¤™.
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Ö¼Ş¼üÿÿÿÿ8»“‹¤™.
-U	java:S106+"9Replace this use of System.out or System.err by a logger.(ÏÂõø8»“‹¤™.
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8»“‹¤™.
-]	java:S1252"<This block of commented-out lines of code should be removed.(×¤–øÿÿÿÿ8»“‹¤™.
-Z	java:S106 "9Replace this use of System.out or System.err by a logger.(œœ®…üÿÿÿÿ8»“‹¤™.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯ù»ÿÿÿÿÿ8úÛˆÉ™.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ€²Øûÿÿÿÿ8äÉ™.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…—àğûÿÿÿÿ8úÛˆÉ™.
