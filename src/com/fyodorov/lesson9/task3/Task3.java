@@ -10,7 +10,7 @@ interface Swim{
     void slow();
 }
 
-abstract class Person {
+    abstract class Person {
 
     static class Man extends Person implements Run {
         @Override

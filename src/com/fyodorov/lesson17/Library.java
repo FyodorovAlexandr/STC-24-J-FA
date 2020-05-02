@@ -14,7 +14,7 @@ public class Library {
                 System.out.println(e.getMessage());
             }
         }
-        
+
         public static void showListOfBooks(){
 
             try{
@@ -27,7 +27,6 @@ public class Library {
             }
             bufferedReader.close();
         }catch (IOException e){
-            //System.out.println(e);
             e.printStackTrace();
             e.getStackTrace();
         }
