@@ -16,7 +16,6 @@ public class Library {
         }
 
         public static void showListOfBooks(){
-
             try{
                 File file = new File("bookList.txt");
                 FileReader fileReader = new FileReader(file);
