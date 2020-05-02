@@ -1,0 +1,14 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(åŸÁÖ8²ÌÊì›.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(­Ëğ×8²ÌÊì›.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8²ÌÊì›.
+n
+java:S3457*"Q%n should be used in place of \n to produce the platform-specific line separator.(­Ëğ×8²ÌÊì›.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ó›†úÿÿÿÿ8²ÌÊì›.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8²ÌÊì›.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(í³×£8²ÌÊì›.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š™õ‚
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8áÚîÄ›.

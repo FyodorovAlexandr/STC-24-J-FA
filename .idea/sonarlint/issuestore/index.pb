@@ -51,19 +51,33 @@ c
 3src/com/fyodorov/lesson13/DonLikeFoodException.java,8\2\82bdbc36bd449c141b8f4edb2ded71e24779d589
 T
 $src/com/fyodorov/lesson13/Child.java,5\3\53a4fa0d4aad55d7f8aab2d0bde9f229577fe669
-B
-src/Test/Test.java,b\2\b2c17535916fe5b53ea8da317848151ce9afe4b7
 :
 
 MyFile.log,1\c\1cdc83130a1a97fbc192cd1322487f79e06fb12b
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+X
+(src/com/fyodorov/lesson15/Recursion.java,c\a\ca7aac70219eb2bef3cf426afaa8c87fb4fd1cd9
+\
+,src/com/fyodorov/lesson15/WorkWithFiles.java,5\2\52d600f28226dd2fef883b63900b6fe360631603
+B
+src/Test/Test.java,b\2\b2c17535916fe5b53ea8da317848151ce9afe4b7
 C
 src/Test/Test2.java,2\7\27c7dc2b1cd6cac31948c7ebae33a1b65d1fbbb0
 C
 src/Test/Test3.java,f\a\fad604ec1f418d163d2c5495ad33981b906399d6
-T
-$src/com/fyodorov/lesson15/Task1.java,2\7\27927b719329ece00811d30d2d3815754de04a49
-T
-$src/com/fyodorov/lesson15/Task2.java,3\c\3cad9e950d17c87c8e9b70c2f786895bb53648cc
+S
+#src/com/fyodorov/lesson17/Book.java,4\7\4747aefae2c877339aea66c82bbc4fa26a92c401
+V
+&src/com/fyodorov/lesson17/Library.java,4\1\419475529dedecc88c5010a9e72e5c114cd42dc3
+9
+	notes.txt,8\3\83348d283c1ba0b3b4d55fdc04c39a165b933125
+D
+src/Test1/Test1.java,8\a\8a130b8be689be2d0ea8b335277f047ef846fe9f
+>
+people.dat.txt,5\7\5795fdde9b43bdb4eef18e140cbee0c38ab085b5
+W
+'src/com/fyodorov/lesson17/BookList.java,3\0\30bc04203e8a2dd0c18bbd69289c6cf9ef46a4fe
+<
+bookList.txt,0\c\0c20d3e37925a39f23cb97460636efed88f624c0
