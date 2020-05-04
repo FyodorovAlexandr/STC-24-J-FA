@@ -1,13 +1,0 @@
-
-U	java:S106"9Replace this use of System.out or System.err by a logger.(‹åÓ–8Ë± Æš.
-p
-java:S2095	"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(½¨”¿şÿÿÿÿ8ùçÔÄš.
-n
-java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(íÛÔ—8â›ßÅš.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8±ŞÖÄš.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(íÛÔ—8«ÛÜÅš.
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¢™ùÿÿÿÿ
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(è…Œ‹ùÿÿÿÿ8†è›Æš.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ëÀ“Û8ü„ÙÄš.
-]	java:S125"<This block of commented-out lines of code should be removed.(âûÁæûÿÿÿÿ8Ş•Æš.
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(õŒµÔ8«ÛÜÅš.
