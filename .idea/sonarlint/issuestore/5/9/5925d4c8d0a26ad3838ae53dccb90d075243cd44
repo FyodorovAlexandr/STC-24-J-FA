@@ -1,8 +1,0 @@
-
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒáÃÉÿÿÿÿÿ8åıÀã.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú€¯çúÿÿÿÿ8åıÀã.
-E
-java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ƒÚ¶Ô.
-[
-java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(Ö‘ºÏùÿÿÿÿ8åıÀã.
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8¾†Õ.

@@ -63,11 +63,13 @@ W
 'src/com/fyodorov/lesson17/BookList.java,3\0\30bc04203e8a2dd0c18bbd69289c6cf9ef46a4fe
 <
 bookList.txt,0\c\0c20d3e37925a39f23cb97460636efed88f624c0
+<
+Lesson18.log,5\1\51fee78d591591afbe134fffbeefd90c87fbb84e
+>
+My Folder1.txt,0\4\040ae273fcd2d6e22dc4a541a27e9041bc313a1f
+>
+My Folder2.txt,d\d\ddeea532b2fc534fa316b84e0881c147f3385e17
 T
-$src/com/fyodorov/lesson18/Test1.java,5\9\5925d4c8d0a26ad3838ae53dccb90d075243cd44
-:
-
-My Folder1,d\2\d2314119c106b892cd85b16ff852773a64d535f5
-:
-
-My Folder2,0\7\07928dedd039762a47656931c93eade6a20923e6
+$src/com/fyodorov/lesson18/Task1.java,c\2\c2fd03d885a4d65f91aa9dc9596ce805b794599c
+D
+src/Test1/Test1.java,8\a\8a130b8be689be2d0ea8b335277f047ef846fe9f

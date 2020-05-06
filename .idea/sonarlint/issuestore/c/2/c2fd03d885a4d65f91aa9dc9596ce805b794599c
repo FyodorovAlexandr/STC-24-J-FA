@@ -1,0 +1,11 @@
+
+g
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(¹ùb8Åëè.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¶ã˜@8¥¼È.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÄşªÏ8Åëè.
+h
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Š·ü98›È‰Œ.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8Åëè.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İÀô€ÿÿÿÿÿ8Åëè.
+V
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ô„Ó…8¥ã¡.
