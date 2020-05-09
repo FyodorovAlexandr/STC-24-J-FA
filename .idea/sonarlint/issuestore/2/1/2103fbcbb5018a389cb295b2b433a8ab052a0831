@@ -1,0 +1,11 @@
+
+d
+java:S2095"GUse try-with-resources or close this "Formatter" in a "finally" clause.(²¢¶ý8àúŸáž.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ8»ñîàž.
+T	java:S106""9Replace this use of System.out or System.err by a logger.(š²¤T8…Õˆáž.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µòªˆùÿÿÿÿ8¡‘­àž.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”8 ‰†áž.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(š²¤T8»ñîàž.
+g
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Èñ¾„ýÿÿÿÿ8á¤«àž.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Ì‚­ùüÿÿÿÿ8…Õˆáž.

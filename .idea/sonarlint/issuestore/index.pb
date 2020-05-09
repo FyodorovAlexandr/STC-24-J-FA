@@ -71,5 +71,9 @@ W
 My Folder2.txt,d\d\ddeea532b2fc534fa316b84e0881c147f3385e17
 T
 $src/com/fyodorov/lesson18/Task1.java,c\2\c2fd03d885a4d65f91aa9dc9596ce805b794599c
-D
-src/Test1/Test1.java,8\a\8a130b8be689be2d0ea8b335277f047ef846fe9f
+V
+&src/com/fyodorov/lesson19/Receipt.java,2\1\2103fbcbb5018a389cb295b2b433a8ab052a0831
+<
+products.txt,d\9\d90d56a087ad2e4884fb01ce3e3f30d2375590df
+S
+#src/com/fyodorov/lesson20/Json.java,3\d\3d153060ce198c5d872bb0b65ba1b8e127e6780b
