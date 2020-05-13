@@ -77,3 +77,11 @@ V
 products.txt,d\9\d90d56a087ad2e4884fb01ce3e3f30d2375590df
 S
 #src/com/fyodorov/lesson20/Json.java,3\d\3d153060ce198c5d872bb0b65ba1b8e127e6780b
+v
+F.idea/libraries/com_fasterxml_jackson_core_jackson_databind_2_10_3.xml,9\d\9d33af20029633dc39d614c4d3600b978c0db175
+S
+#src/com/fyodorov/lesson20/City.java,3\c\3c8a78c1809e89daf60bf956f359c2c274323c33
+`
+0src/com/fyodorov/lesson21/ShiftElementArray.java,b\4\b40e9342cf89534a0406bc4c880047955bae7a88
+j
+:src/com/fyodorov/lesson21/InitializationAndPrintArray.java,8\d\8db878b8f44bb7ba3de7ed8de4d405d4d8abb4d9
