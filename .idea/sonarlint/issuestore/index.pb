@@ -81,7 +81,11 @@ v
 F.idea/libraries/com_fasterxml_jackson_core_jackson_databind_2_10_3.xml,9\d\9d33af20029633dc39d614c4d3600b978c0db175
 S
 #src/com/fyodorov/lesson20/City.java,3\c\3c8a78c1809e89daf60bf956f359c2c274323c33
-`
-0src/com/fyodorov/lesson21/ShiftElementArray.java,b\4\b40e9342cf89534a0406bc4c880047955bae7a88
-j
-:src/com/fyodorov/lesson21/InitializationAndPrintArray.java,8\d\8db878b8f44bb7ba3de7ed8de4d405d4d8abb4d9
+T
+$src/com/fyodorov/lesson21/Task2.java,3\5\35678eb15f7b3a758117305a03158a5ee32b69bc
+T
+$src/com/fyodorov/lesson21/Task1.java,2\8\2859565153f4c8fda3de61d8c767e346e6725058
+T
+$src/com/fyodorov/lesson22/Task1.java,d\e\de687f08b1752c7cd64235942c7b3314f0edb02e
+U
+%src/com/fyodorov/lesson22/Person.java,9\a\9a5e89efe5d07e32adcfa4fea43dfa5cc61d9c8e
