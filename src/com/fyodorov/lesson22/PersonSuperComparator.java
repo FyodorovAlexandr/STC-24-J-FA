@@ -3,7 +3,9 @@ package com.fyodorov.lesson22;
 import java.util.*;
 
 public class PersonSuperComparator {
+
     public static void main(String[] args) {
+
         Comparator<Person> comparator = new PersonNameComparator().thenComparing(new PersonAgeComparator());
         TreeSet<Person> people = new TreeSet(comparator);
         people.add(new Person("Борис", 35));
