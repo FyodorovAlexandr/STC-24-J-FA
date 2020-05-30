@@ -8,7 +8,7 @@ public class IsUnique{
 
         map.put("Вася", "Иванов");
         map.put("Петр", "Петров");
-        map.put("Виктор", "Иваерв");
+        map.put("Виктор", "Иванов");
         map.put("Сергей", "Савельев");
         map.put("Вадим", "Петров");
 
@@ -19,17 +19,18 @@ public class IsUnique{
         System.out.println(isUnique(map));
     }
 
-    public static boolean isUnique(Map<String, String> map){
+    public static boolean isUnique(Map<String, String> map) {
         Set<String> set = new HashSet<>();
-        for(Map.Entry<String, String> entry: map.entrySet()){
-            if (set.contains(entry.getValue())) {
+        for (Map.Entry<String, String> entry : map.entrySet()) {
+            if (!set.add(entry.getValue())) {
                 System.out.println();
                 System.out.println("Обнаружены одинаковые значения: ");
                 return false;
-            } else set.add(entry.getValue());
+            }
+            }
+            System.out.println();
+            System.out.println("Одинаковых значений не обнаружено: ");
+            return true;
         }
-        System.out.println();
-        System.out.println("Одинаковых значений не обнаружено: ");
-        return true;
     }
-}
+
