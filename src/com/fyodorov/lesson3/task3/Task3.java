@@ -1,7 +1,10 @@
 package com.fyodorov.lesson3.task3;
 
 import java.util.Scanner;
-
+/**
+ * Класс {@code Task3} Программа, которая конвертирует секунды в часы.
+ * @author Alexandr Fyodorov
+ */
 public class Task3 {
     public static void main(String[] args) {
         double seconds = 3600;

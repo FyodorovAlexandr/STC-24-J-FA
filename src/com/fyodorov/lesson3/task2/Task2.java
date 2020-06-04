@@ -1,7 +1,11 @@
 package com.fyodorov.lesson3.task2;
 
 import java.util.Scanner;
-
+/**
+ * Класс {@code Task2} Программа, которая считает зарплату «на руки»
+ * (на вход программе передается величина зарплаты, на выходе печатается зарплата за вычетом 13% (НДФЛ)
+ * @author Alexandr Fyodorov
+ */
 public class Task2 {
 
     public static void main(String[] args) {

@@ -2,7 +2,10 @@ package com.fyodorov.lesson3.task4;
 
 import java.util.Random;
 import java.util.Scanner;
-
+/**
+ * Класс {@code Task4} Создать консольное Java-приложение «Горячо-Холодно»
+ * @author Alexandr Fyodorov
+ */
 public class Task4 {
     public static int a, d, c;
         static Scanner scanner;

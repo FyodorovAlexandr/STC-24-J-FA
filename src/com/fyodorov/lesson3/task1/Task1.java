@@ -1,7 +1,11 @@
 package com.fyodorov.lesson3.task1;
 
 import java.util.Scanner;
-
+/**
+ * Класс {@code Task1} Программа, которая считает стоимость бензина
+ * (на вход программе передается кол-во литров, на выходе печатается стоимость)
+ * @author Alexandr Fyodorov
+ */
 public class Task1 {
     public static void main(String[] args) {
         double literCost = 43;
