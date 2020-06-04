@@ -1,5 +1,8 @@
 package com.fyodorov.lesson4.task1;
-
+/**
+ * Класс {@code Task1} Написать программу для поиска минимального из двух чисел.
+ * @author Alexandr Fyodorov
+ */
 public class Task1 {
     public static void main(String[] args) {
         int a = 2;
