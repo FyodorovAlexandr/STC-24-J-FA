@@ -1,7 +1,12 @@
 package com.fyodorov.lesson29;
 
 import java.io.*;
-
+/**
+ * Класс {@code DuplicateMap}
+ * Реализовать метод removeTheDuplicates по поиску дубликатов в исходной мапе, затем при нахождении дубликата
+ * удалить его из исходной мапы используя метод
+ * @author Alexandr Fyodorov
+ */
 public class DuplicateMap {
     public static void main(String[] args) {
 
