@@ -81,3 +81,4 @@ public class DrinkBox {
         logger.log(Level.INFO, " Покупатель забрал напиток ");
     }
 }
+
