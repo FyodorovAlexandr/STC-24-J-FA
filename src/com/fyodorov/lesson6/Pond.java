@@ -5,7 +5,6 @@ package com.fyodorov.lesson6;
  * @author Alexandr Fyodorov
  */
 public class Pond {
-
     public static void main(String[] args) {
 
         Animal frog = new Frog("Озерная лягушка", "зелёный");
