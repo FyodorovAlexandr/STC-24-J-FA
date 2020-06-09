@@ -1,5 +1,8 @@
 package com.fyodorov.lesson32;
-
+/**
+ * Класс {@code BinaryTreeLeafCount} Программа для подсчета листовых узлов в двоичном дереве в Java.
+ * @author Alexandr Fyodorov
+ */
 public class BinaryTreeLeafCount {
 
     public static class TreeNode {
