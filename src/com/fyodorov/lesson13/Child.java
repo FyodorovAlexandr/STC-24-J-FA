@@ -10,4 +10,3 @@ public class Child {
         System.out.println(food.getFoodName(food) + " - это очень вкусно! Спасибо огромное!!!");
     }
 }
-

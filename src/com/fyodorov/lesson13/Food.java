@@ -4,9 +4,9 @@ public enum Food {
     CARROT("Морковь",false),
     APPLE("Яблоко",true),
     PORRIDGE("Каша",false),
-    SAUSAGE("Макароны",true),
+    PASTA("Макароны",true),
     SOUP("Суп",false),
-    PANCAKES("Конфеты",true);
+    SWEETS("Конфеты",true);
 
     private String foodName;
     private boolean isTasty;

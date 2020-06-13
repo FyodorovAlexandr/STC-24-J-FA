@@ -9,7 +9,7 @@ import static com.fyodorov.lesson13.Food.*;
  */
 public class Mother {
     public static void main(String[] args) {
-        Food[] food = {SOUP, SAUSAGE, PORRIDGE, APPLE, CARROT, PANCAKES};
+        Food[] food = {SOUP, PASTA, PORRIDGE, APPLE, CARROT, SWEETS};
         Child child = new Child();
 
         System.out.println("Имитация кормления ребенка едой");
@@ -25,5 +25,3 @@ public class Mother {
         System.out.println("Спасибо! Наелся на весь день.");
     }
 }
-
-
