@@ -4,11 +4,11 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 /**
- * Класс {@code Task1} Напишите программу которая получает на вход некую строку, после она вызывает метод,
+ * Класс {@code Censor} Напишите программу которая получает на вход некую строку, после она вызывает метод,
  * заменяющий в строке все вхождения слова «бяка» на «вырезано цензурой» и выводит результат в консоль!
  * @author Alexandr Fyodorov
  */
-public class Task1 {
+public class Censor {
     public static void main(String[] args) {
         censorPattern();
     }
