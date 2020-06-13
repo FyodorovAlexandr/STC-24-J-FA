@@ -14,9 +14,9 @@ public class Censor {
     }
 
     public static void censorPattern(){
-        Scanner in = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         System.out.println("Введите строку для проверки: ");
-        String text = in.nextLine();
+        String text = scanner.nextLine();
         Pattern censor = Pattern.compile("бяка(\\w*)", Pattern.CASE_INSENSITIVE | Pattern.UNICODE_CASE);
         Matcher replaceCensor = censor.matcher(text);
         String newText = replaceCensor.replaceAll("вырезано цензурой ");
