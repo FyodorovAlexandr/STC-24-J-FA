@@ -1,19 +1,26 @@
 package com.fyodorov.lesson13;
 
 public enum Food {
-    МОРКОВЬ(1),
-    ЯБЛОКО(2),
-    КАША(3);
+    CARROT("Морковь",false),
+    APPLE("Яблоко",true),
+    PORRIDGE("Каша",false),
+    SAUSAGE("Макароны",true),
+    SOUP("Суп",false),
+    PANCAKES("Конфеты",true);
 
-    public int number;
-    Food(int inputNumber) {number = inputNumber;}
+    private String foodName;
+    private boolean isTasty;
 
-    public Food getFoodByNumber(int number){
-        if(number==1)
-            return МОРКОВЬ;
-        else if (number==2)
-            return ЯБЛОКО;
-        else
-            return КАША;
+    Food(String foodName, boolean isTasty) {
+        this.foodName = foodName;
+        this.isTasty = isTasty;
+    }
+
+    public String getFoodName(Food food) {
+        return foodName;
+    }
+
+    public boolean isTasty(Food food) {
+        return isTasty;
     }
 }

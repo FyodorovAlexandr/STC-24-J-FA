@@ -1,44 +1,28 @@
 package com.fyodorov.lesson13;
-import java.util.Scanner;
 
+import static com.fyodorov.lesson13.Food.*;
+/**
+ * Класс {@code Mother} Программа должна имитировать поведение воспитанного ребенка, которого мама кормит вкусной или невкусной едой.
+ * Если еда не нравится, ребенок ее не ест: выбрасывается исключительная ситуация, которая обрабатывается «мамой». Воспитанный ребенок,
+ * даже если еда не естся, в любом случае скажет «спасибо» и поцелует маму.
+ * @author Alexandr Fyodorov
+ */
 public class Mother {
-    public String name;
-    public int age;
     public static void main(String[] args) {
-        MannerlyChild();
+        Food[] food = {SOUP, SAUSAGE, PORRIDGE, APPLE, CARROT, PANCAKES};
         Child child = new Child();
-        child.name = "Иван";
-        child.age = 5;
-        Mother mother = new Mother();
-        mother.name = "Мария";
-        mother.age = 30;
-        try {
-            Child.Eat();
-            System.out.println("Съел … за обе щеки");
-        } catch (DonLikeFoodException e) {
-            System.out.println("Ребенок выплюнул еду");
-        } finally {
-            System.out.println("Спасиба мама");
-        }
-    }
 
-    public static void MannerlyChild() {
-        System.out.println("Программа воспитанный ребенок !");
-        System.out.println("Мама должна покормить ребенка.");
-        System.out.println("Для просмотра вариантов еды нажмите +");
-        Scanner scanner = new Scanner(System.in);
-        String a = scanner.nextLine();
-        char b = a.charAt(0);
-        if (b == '+') {
-            Food[] types = Food.values();
-            for (int i = 0; i < types.length; i++) {
-                System.out.println(types[i]);
+        System.out.println("Имитация кормления ребенка едой");
+        System.out.println();
+        for (Food f : food) {
+            try {
+                child.tasteDish(f);
+            } catch (ChildDissatisfiedException e) {
+                System.out.println(e.getMessage());
             }
-        } else {
-            System.out.println("Попробуйте еще раз");
-            System.out.println("");
-            MannerlyChild();
         }
+        System.out.println();
+        System.out.println("Спасибо! Наелся на весь день.");
     }
 }
 
