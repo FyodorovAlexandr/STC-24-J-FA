@@ -1,23 +1,20 @@
 package com.fyodorov.lesson17;
 
-public class Book {
+import java.io.Serializable;
 
-    private String bookName;
-    private String bookAuthor;
-    private String bookYearOfPublishing;
+public class Book implements Serializable {
+    private final String author;
+    private final String title;
+    private final String year;
 
-    Book(String bookName, String bookAuthor, String bookYearOfPublishing){
-        this.bookName = bookName;
-        this.bookAuthor = bookAuthor;
-        this.bookYearOfPublishing = bookYearOfPublishing;
+    public Book(String author, String title, String year) {
+        this.author = author;
+        this.title = title;
+        this.year = year;
     }
 
     @Override
     public String toString() {
-        return "Book{" +
-                "Название книги='" + bookName + '\'' +
-                ", Автор='" + bookAuthor + '\'' +
-                ", Год издания=" + bookYearOfPublishing +
-                '}';
+        return author + " - " + '\'' + title + '\'' + " (" + year + ")";
     }
 }
