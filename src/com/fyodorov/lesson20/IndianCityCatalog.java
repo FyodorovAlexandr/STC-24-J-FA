@@ -1,8 +1,6 @@
 package com.fyodorov.lesson20;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 
 /**
  * Класс {@code IndianCityCatalog} даёт возможность получать данные о городах Индии в формате JSON
