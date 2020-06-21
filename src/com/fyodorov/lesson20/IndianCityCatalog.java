@@ -1,7 +1,6 @@
 package com.fyodorov.lesson20;
 
 import java.io.*;
-
 /**
  * Класс {@code IndianCityCatalog} даёт возможность получать данные о городах Индии в формате JSON
  * Суть задачи:
