@@ -1,8 +1,6 @@
 package com.fyodorov.lesson15.task1;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 
 /**
  * Класс создаёт, переименовывает, копирует и удаляет файл.
