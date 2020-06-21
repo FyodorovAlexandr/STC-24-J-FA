@@ -1,9 +1,6 @@
 package com.fyodorov.lesson15.task2;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 
 /**
  * Класс выводит дерево файлов и подкаталогов для указанной папки
