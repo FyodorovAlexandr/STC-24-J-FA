@@ -1,7 +1,11 @@
 package com.fyodorov.lesson22;
 
 import java.util.*;
-
+/**
+ * Класс {@code PersonSuperComparator} Написать класс PersonSuperComparator,
+ * который имплементит Comparator, но умеет сравнивать по двум параметрам - возраст и имя.
+ * @author Alexandr Fyodorov
+ */
 public class PersonSuperComparator {
 
     public static void main(String[] args) {
