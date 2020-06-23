@@ -1,7 +1,15 @@
 package com.fyodorov.lesson25.task2;
 
 import java.util.*;
-
+/**
+ * Класс {@code IsUnique}
+ * public boolean isUnique(Map<String, String> map);
+ * Написать метод, который возвращает true, если в мапе нет двух и более одинаковых value, и false в противном случае.
+ * Для пустой мапы метод возвращает true.
+ * Например, для метода {Вася=Иванов, Петр=Петров, Виктор=Сидоров, Сергей=Савельев, Вадим=Викторов} метод вернет true,
+ * а для {Вася=Иванов, Петр=Петров, Виктор=Иванов, Сергей=Савельев, Вадим=Петров} метод вернет false.
+ * @author Alexandr Fyodorov
+ */
 public class IsUnique{
     public static void main(String[] args) {
         Map<String, String> map = new LinkedHashMap<>();
