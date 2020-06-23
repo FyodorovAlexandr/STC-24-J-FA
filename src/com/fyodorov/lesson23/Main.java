@@ -2,7 +2,18 @@ package com.fyodorov.lesson23;
 
 import java.io.*;
 import java.util.logging.*;
-
+/**
+ * Класс {@code Main} Реализовать класс корзины интернет магазина по следующему интерфейсу:
+ * interface Basket {
+ *     void addProduct(String product, int quantity);
+ *     void removeProduct(String product);
+ *     void updateProductQuantity(String product, int quantity);
+ *     void clear();
+ *     List<String> getProducts();
+ *     int getProductQuantity(String product);
+ * }
+ * @author Alexandr Fyodorov
+ */
 public class Main {
 
     public static final Logger log = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
