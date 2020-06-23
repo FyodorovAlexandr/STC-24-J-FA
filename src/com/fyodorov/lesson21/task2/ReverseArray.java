@@ -1,7 +1,6 @@
 package com.fyodorov.lesson21.task2;
 
 import java.util.Scanner;
-
 /**
  * Класс {@code ReverseArray} Задача: Имеется массив, нужно переставить элементы массива в обратном порядке.
  * Задачу не зачитывать если использованы утильные методы класса Arrays.
@@ -9,7 +8,6 @@ import java.util.Scanner;
  * Вывести массив в консоль до и после вызова метода по реверсу массива
  * @author Alexandr Fyodorov
  */
-
 public class ReverseArray {
     public static void main(String[] args) {
 
