@@ -1,31 +1,35 @@
 package com.fyodorov.lesson31;
 
-import java.util.Scanner;
 /**
- * Класс {@code Task1} Проверяет строку на палиндром
+ * Класс {@code Palindrome} позволяет проверить строку на палиндром.
  * @author Alexandr Fyodorov
  */
-public class Palindrome{
-    public static void main(String[] args) {
-        System.out.println("Введите строку: ");
-        Scanner scanner = new Scanner(System.in);
-        String str = scanner.next();
-        isPalindrome(str);
-    }
+public class Palindrome {
+    private Palindrome() {}
 
-    public static String reversString(String s){
-        String r = "";
-        for(int i = s.length() - 1; i >= 0; --i)
-            r += s.charAt(i);
-        return r;
-    }
-
-    public static Boolean isPalindrome(String s){
-        if(s.equals(reversString(s))){
-            System.out.println("Палиндром");
-        }else {
-            System.out.println("Не палиндром");
+    /**
+     * Метод проверяет строку на палиндром.
+     * @param s проверяемая строка.
+     * @return true - если палиндром, иначе false;
+     */
+    public static boolean firstWay(String s) {
+        for (int i = 0; i < s.length() / 2; i++) {
+            char symbol = s.charAt(i);
+            int mirrorIndex = s.length() - 1 - i;
+            char mirrorSymbol = s.charAt(mirrorIndex);
+            if (symbol != mirrorSymbol) {
+                return false;
+            }
         }
-        return s.equals(reversString(s));
+        return true;
+    }
+
+    /**
+     * Метод проверяет строк на палиндром.
+     * @param s проверяемая строка.
+     * @return true - если палиндром, иначе false;
+     */
+    public static boolean secondWay(String s) {
+        return s.equals(new StringBuilder(s).reverse().toString());
     }
 }
