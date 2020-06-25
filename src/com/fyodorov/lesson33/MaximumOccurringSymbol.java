@@ -16,23 +16,20 @@ public class MaximumOccurringSymbol {
 
         Map<Character, Integer> occurrences = new HashMap<>();
 
-        for(char c: string.toCharArray()) {
-            if (Character.isLetter(c)) {
-                if (!occurrences.containsKey(c))
-                    occurrences.put(c, 1);
-                else
-                    occurrences.put(c, occurrences.get(c) + 1);
-            }
+        for (char c : string.toCharArray()) {
+            if (!occurrences.containsKey(c)) {
+                occurrences.put(c, 1);
+            } else
+                occurrences.put(c, occurrences.get(c) + 1);
         }
 
-            int maxValueInMap = (Collections.max(occurrences.values()));
-            for(Map.Entry<Character, Integer> entry: occurrences.entrySet()){
-                int count = 0;
-                count += entry.getValue();
-                if(entry.getValue() == maxValueInMap){
-                    System.out.println("Character: "+entry.getKey()+" has occurred maximum times in String: "+count);
-                }
+        int maxValueInMap = (Collections.max(occurrences.values()));
+        for (Map.Entry<Character, Integer> entry : occurrences.entrySet()) {
+            int count = 0;
+            count += entry.getValue();
+            if (entry.getValue() == maxValueInMap) {
+                System.out.println("Character: " + entry.getKey() + " has occurred maximum times in String: " + count);
             }
         }
     }
-
+}
