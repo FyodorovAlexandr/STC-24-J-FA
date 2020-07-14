@@ -1,31 +1,0 @@
-
-c
-java:S10757"ARefactor your code to get this URI from a customizable parameter.(ÂÛ½•ıÿÿÿÿ8›»¹ˆš.
-Z	java:S106."9Replace this use of System.out or System.err by a logger.(ø»®úÿÿÿÿ8›»¹ˆš.
-k
-java:S4042?"IUse "java.nio.Files#delete" here for better messages on error conditions.(õà°‰ùÿÿÿÿ8›»¹ˆš.
-U	java:S106$"9Replace this use of System.out or System.err by a logger.(–¹ƒ¿8›»¹ˆš.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ8›»¹ˆš.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨ØÎûÿÿÿÿ8›»¹ˆš.
-Z	java:S106;"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8›»¹ˆš.
-X
-java:S1854"6Remove this useless assignment to local variable "d1".(ÌÅÀãşÿÿÿÿ8›»¹ˆš.
-I
-java:S1481"'Remove this unused "d1" local variable.(ÌÅÀãşÿÿÿÿ8›»¹ˆš.
-c
-java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÌÅÀãşÿÿÿÿ8›»¹ˆš.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹ùÖ¯şÿÿÿÿ8›»¹ˆš.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÀèÏóşÿÿÿÿ8›»¹ˆš.
-^	java:S8992"=Do something with the "boolean" value returned by "renameTo".(ºâ¿÷üÿÿÿÿ8›»¹ˆš.
-Z	java:S106@"9Replace this use of System.out or System.err by a logger.(»´Â€şÿÿÿÿ8›»¹ˆš.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Û×àá8›»¹ˆš.
-Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ÙòÙâüÿÿÿÿ8›»¹ˆš.
-c
-java:S1075"ARefactor your code to get this URI from a customizable parameter.(­ÀÓªşÿÿÿÿ8›»¹ˆš.
-^
-java:S10751"ARefactor your code to get this URI from a customizable parameter.(•á¬8›»¹ˆš.
-U	java:S106""9Replace this use of System.out or System.err by a logger.(¡¬Â8›»¹ˆš.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(˜å“Íûÿÿÿÿ8›»¹ˆš.
-Z	java:S106'"9Replace this use of System.out or System.err by a logger.(–ÒÖ³úÿÿÿÿ8›»¹ˆš.
-T	java:S106,"9Replace this use of System.out or System.err by a logger.(–ë¿68›»¹ˆš.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù…“¥ÿÿÿÿÿ8›»¹ˆš.

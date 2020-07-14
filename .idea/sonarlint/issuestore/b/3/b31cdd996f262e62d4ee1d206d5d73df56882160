@@ -1,10 +1,0 @@
-
-i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”îÕ8çôÌ»’.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¨Ş®Ë8çôÌ»’.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(„ÌÉÁşÿÿÿÿ8­Õñº’.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¦äòå8“°»’.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ºğºä8çôÌ»’.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(µßıá8çôÌ»’.
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(† üˆûÿÿÿÿ8çôÌ»’.
-W
-java:S1161":Add the "@Override" annotation above this method signature(¤•ñ8ÄÁŸ¼’.

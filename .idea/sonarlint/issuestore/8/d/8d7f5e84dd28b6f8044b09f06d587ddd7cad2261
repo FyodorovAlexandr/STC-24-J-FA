@@ -1,8 +1,5 @@
 
-t
-java:S1104"RMake number a static final constant or non-public and provide accessors if needed.( ë¾©ùÿÿÿÿ8óÕàş—.
-{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß©éúÿÿÿÿ8³„Ï¤˜.
-E
-java:S3066"#Lower the visibility of this field.( ë¾©ùÿÿÿÿ8óÕàş—.
-v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(òŸÖü8›öÍ¤˜.
-{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ó‚ö´øÿÿÿÿ8Î¤Ì¤˜.
+H
+java:S1172"+Remove this unused method parameter "food".(ğÙúã8ˆÑİìª.
+M
+java:S1172"+Remove this unused method parameter "food".(ù¿Ç’ıÿÿÿÿ8ˆÑİìª.

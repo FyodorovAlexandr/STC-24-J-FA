@@ -1,7 +1,0 @@
-
->
-java:S3066
-"#Lower the visibility of this field.(ë­‡ìýÿÿÿÿ
-l
-java:S1104
-"QMake price a static final constant or non-public and provide accessors if needed.(ë­‡ìýÿÿÿÿ
